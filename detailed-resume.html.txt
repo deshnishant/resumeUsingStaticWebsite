@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Nishant Deshpande - Resume</title>
+
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="The Curriculum Vitae of Joe Bloggs."/>
+<meta charset="UTF-8"> 
+
+<link type="text/css" rel="stylesheet" href="style.css">
+<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="headshot.jpg" alt="Alan Smith" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Nishant Deshpande</h1>
+			<h4 class="quickFade delayThree">Enthusiastic and passionate in cloud</h4>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>e: <a href="deshpandenishant02@gmail.com" target="_blank">deshpandenishant02@gmail.com</a></li>
+				<!-- <li>w: <a href="www.cloudwithraj.com">www.cloudwithraj.com</a></li> -->
+				<li>m: +91 8275741593</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Personal Profile</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>Hands on experience in system transformation and design of fault tolerant, highly scalable and highly available applications. I am extremely passionate about Cloud computing and it's future. This resume is hosted on AWS infrastructure designed by me. </p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Work Experience</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Systems Engineer at Infosys</h2>
+					<p class="subDetails">2022 - Present</p>
+					<p> Infrastructure support for OCP and WAS migration. Works on CI/CD pipeline for developing the software. Uses Splunk, AppD and Grafana application to monitor the application health, memory ad cpu consumption as well as application logs.</p>
+				</article>
+			</section>	
+
+		<section>
+			<div class="sectionTitle">
+				<h1>Handson Projects</h1>
+			</div>
+
+			<div class="sectionContent">
+				<article>
+					<h2>Highly available website on AWS</h2>
+					<p class="subDetails">Built a static website using S3, CloudFront, and Route53</p>
+				</article>
+				
+				
+				<!-- <!-- <article> 
+					<h2>Distinguished Engineer at Verizon</h2>
+					<p class="subDetails">2011 - 2019</p>
+					<p>Designing and implementing enterprise wide initiatives for cloud migration, i.e. custom Serverless framework, database migration strategy, standardizing deployment procedures using AWS Service Catalog, auto remediation, DevOps CI/CD etc.</p>
+				</article> -->
+				
+				<!-- <article>
+					<h2>Systems Engineer at Infosys</h2>
+					<p class="subDetails">2022 - Present</p>
+					<p>Leading onshore/offshore teams on health projects on Openshift Container Platform - 
+					<p>Overseeing the development process and ensuring smooth delivery.</p>
+				</article> -->
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Key Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>AWS</li>
+					<li>Kubernetes</li>
+					<!-- <li>Serverless</li> -->
+					<li>Jenkins</li>
+					<li>Python</li>
+					<li>Git/GitHub</li>
+					<li>System Design</li>
+					<li>DevOps</li>
+					<li>Linux</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Education</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>P.E.S. College Of Engineering </h2>
+					<p class="subDetails">B. Eng, Mechanical</p>
+					<!-- <p>Passed with honors</p> -->
+				</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+	</div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-252666219-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
